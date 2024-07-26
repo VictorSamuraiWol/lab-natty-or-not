@@ -36,8 +36,7 @@ Projeto com o objetivo de gerar um video utilizando ferramentas de IA através d
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | descreva os 6 pilares fundamentais da AWS Cloud Computing {REGRAS} -texto de fácil entendimento -texto curto e resumido -faça uma breve introdução sobre os 6 pilares fundamentais -tem uma introdução, 6 tópicos e conclusão 
-|
+|  título  | descreva os 6 pilares fundamentais da AWS Cloud Computing {REGRAS} -texto de fácil entendimento -texto curto e resumido -faça uma breve introdução sobre os 6 pilares fundamentais -tem uma introdução, 6 tópicos e conclusão |
 
 ### Texto gerado por IA:
 
