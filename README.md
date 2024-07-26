@@ -42,27 +42,28 @@ Projeto com o objetivo de gerar um video utilizando ferramentas de IA através d
 
 Os 6 Pilares Fundamentais da AWS Cloud Computing
 
+🔷 Introdução<br>
 A AWS oferece uma estrutura sólida para construir e gerenciar aplicações na nuvem, baseada em seis pilares fundamentais. Vamos explorar rapidamente cada um deles para entender como eles contribuem para o sucesso na nuvem.
 
-Excelência Operacional
+🔷 Excelência Operacional<br>
 Este pilar foca em otimizar operações diárias, monitoramento e melhorias contínuas.
 
-Segurança
+🔷 Segurança<br>
 Este pilar envolve a implementação de controles rigorosos para gerenciar acessos, proteger informações e monitorar atividades suspeitas.
 
-Confiabilidade
+🔷 Confiabilidade<br>
 A capacidade de um sistema se recuperar de falhas e atender a demanda conforme necessário.
 
-Eficiência de Desempenho
+🔷 Eficiência de Desempenho<br>
 Este pilar incentiva a escolha das soluções mais adequadas para cada carga de trabalho e o uso de práticas que otimizem o desempenho.
 
-Otimização de Custos
+🔷 Otimização de Custos<br>
 Isso envolve eliminar recursos desnecessários, aproveitar instâncias reservadas e usar serviços sob demanda.
 
-Sustentabilidade
+🔷 Sustentabilidade<br>
 Inclui usar tecnologias que reduzam o consumo de energia e promovam práticas de TI verde.
 
-Conclusão
+Conclusão<br>
 Estes seis pilares fundamentais ajudam a construir uma infraestrutura robusta, segura e eficiente na AWS. Com eles, é possível maximizar a eficiência e inovação, alinhando-se às melhores práticas da computação em nuvem.
 
 ## 👨‍💻 Estudante
