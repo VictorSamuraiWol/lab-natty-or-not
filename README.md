@@ -15,7 +15,9 @@ Assista ao video na pasta "output" do repositório.
 🤖 Os 6 pilares fundamentais da AWS Cloud Computing 🤖
 
 ## 📒 Descrição
-Projeto com o objetivo de gerar um video utilizando ferramentas de IA através de prompts mais trabalhados.
+Bem vindos! Este é um projeto com o objetivo de gerar um video utilizando ferramentas de IA através de prompts mais trabalhados. Minha gratidão a Deus, DIO e Santander pela oportunidade.
+
+Welcome! This project aims to generate a video using AI Tools through more refined prompts. My gratitude goes to God, Dio and Santander for the opportunity.
 
 ## 💻 Tecnologias utilizadas no projeto
 
