@@ -68,8 +68,8 @@ Inclui usar tecnologias que reduzam o consumo de energia e promovam práticas de
 Conclusão<br>
 Estes seis pilares fundamentais ajudam a construir uma infraestrutura robusta, segura e eficiente na AWS. Com eles, é possível maximizar a eficiência e inovação, alinhando-se às melhores práticas da computação em nuvem.
 
-## 👨‍💻 AWS Certified Cloud Practitioner, AWS Cloud Computing and Front-End Student
-
+## <img src="assets/image/icone-wolverine-sem-fundo.png" width="50" /> AWS Certified Cloud Practitioner, AWS Cloud Computing and Front-End Student 
+<br>
 <p>
     <img 
       align=left 
@@ -91,7 +91,7 @@ Estes seis pilares fundamentais ajudam a construir uma infraestrutura robusta, s
     &nbsp;|&nbsp;
     </p>
 </p>
-<br/><br/>
+<br/>
 
 ---
 
